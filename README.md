@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nickstella
+- 👀 I’m interested in Bioinformatics
+- 🌱 I’m currently learning Statistics and Computer Science
+- 💞️ I’m looking to collaborate on academic research projects revolving around the above mentioned topic
+- 📫 How to reach me nicola.stella99@gmail.com
